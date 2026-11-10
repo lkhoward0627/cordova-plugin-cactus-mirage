@@ -1,0 +1,26 @@
+{
+  "name": "cordova-plugin-cactus-mirage",
+  "version": "1.0.0",
+  "description": "On-Device Cactus Mirage VLM Engine plugin for OutSystems Mobile Apps",
+  "cordova": {
+    "id": "cordova-plugin-cactus-mirage",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lkhoward0627/cordova-plugin-cactus-mirage.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android",
+    "vlm",
+    "cactus",
+    "mirage",
+    "ocr",
+    "outsystems"
+  ],
+  "author": "ISS IT Team",
+  "license": "MIT"
+}
